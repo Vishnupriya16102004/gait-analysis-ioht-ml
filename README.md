@@ -9,19 +9,25 @@ Python
 Machine Learning (Isolation Forest)
 IMU & EMG Sensors
 Data Processing
+
 📊 Features
 Processes real-time sensor data
 Handles noisy and inconsistent signals
 Detects abnormal gait patterns
 Supports basic health monitoring analysis
+
 🧪 Dataset
 Includes sample sensor data (IMU & EMG signals)
 Preprocessed for machine learning analysis
+
 🚀 How to Run
 Load the dataset
 Run the Python script
 View output and anomaly detection results
-📈 Outcome
+
+📈 Results
+- Detected abnormal gait patterns using Isolation Forest
+- Observed challenges due to noisy sensor data
 
 ⚠️ Challenges Faced
 Noisy and inconsistent sensor data
