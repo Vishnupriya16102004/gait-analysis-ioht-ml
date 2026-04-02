@@ -23,4 +23,8 @@ Run the Python script
 View output and anomaly detection results
 📈 Outcome
 
+⚠️ Challenges Faced
+Noisy and inconsistent sensor data
+Difficulty in extracting stable patterns from real-world signals
+
 The project demonstrates how sensor data can be analyzed using machine learning to detect irregular gait patterns, highlighting challenges in real-world data reliability.
